@@ -1,0 +1,2 @@
+Using a Prime list and GNU Octave:
+600851475143 = 17*71*839*1471*6857
